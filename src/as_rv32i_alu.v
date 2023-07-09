@@ -8,7 +8,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Pipeline Stage 3 executes instruction [EXECUTE STAGE]
 /* 
    During the pipeline's execute step, the as_rv32i_alu module acts as the RISC-V core's Arithmetic Logic Unit (ALU).
    The ALU is in charge of carrying out arithmetic, logic, and comparison operations based on the instructions and operands supplied.

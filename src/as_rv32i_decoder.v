@@ -8,7 +8,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: Pipeline Stage 1 retrieves instruction from the memory [FETCH STAGE]
+// Description: Pipeline Stage 2 decodes instruction [DECODE STAGE]
 /*
    The as_rv32i_decoder module is in charge of decoding the 32-bit RISC-V RV32I instructions, generating the necessary control signals, and extracting the operand addresses and immediate values required by the RISC-V processor's execution stage.
    This module has numerous important components:
