@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['cause_0',['cause',['../as__rv32i__soc___t_b_8c.html#a676d7b59c08f96343553ac7a7efc1fcc',1,'as_rv32i_soc_TB.c']]],
+  ['ce_1',['ce',['../as__rv32i__fetch_8c.html#a2c88bbc26d24d832bf6e44aa2e543e68',1,'as_rv32i_fetch.c']]],
+  ['ce_5fd_2',['ce_d',['../as__rv32i__fetch_8c.html#aa153f46de8ca8bd21251c6a5fe3368fe',1,'as_rv32i_fetch.c']]],
+  ['ce_5fread_3',['ce_read',['../as__rv32i__core_8c.html#a696ec1f450865dd9c2a6c4f8883ec463',1,'as_rv32i_core.c']]],
+  ['clint_5faddress_4',['clint_address',['../as__rv32i__soc_8c.html#a442452de0390a3c265c72027001ae88c',1,'as_rv32i_soc.c']]],
+  ['clint_5frdata_5',['clint_rdata',['../as__rv32i__soc_8c.html#aa834c0aef5b0d732823d5a3ed7b825af',1,'as_rv32i_soc.c']]],
+  ['clint_5fwdata_6',['clint_wdata',['../as__rv32i__soc_8c.html#a521c66d3a9169f7b75ac97f7c148d0cc',1,'as_rv32i_soc.c']]],
+  ['clint_5fwr_5fen_7',['clint_wr_en',['../as__rv32i__soc_8c.html#ab7d64d139f45f98b07e51886485783e4',1,'as_rv32i_soc.c']]],
+  ['clk_8',['clk',['../as__rv32i__soc___t_b_8c.html#aaede3a74f0f2fd093dd43389eaa14036',1,'as_rv32i_soc_TB.c']]],
+  ['clk_5ffreq_5fmhz_9',['CLK_FREQ_MHZ',['../as__rv32i__soc_8c.html#a15b7a3d72e86204b53d8c801b2d9e63b',1,'as_rv32i_soc.c']]],
+  ['clock_10',['clock',['../as__rv32i__soc_8c.html#a79e14133aa571637b4a0e26c5401ec14',1,'as_rv32i_soc.c']]],
+  ['csr_5fdata_11',['csr_data',['../as__rv32i__csr_8c.html#a15b8fe21493c7117f4e0d1663ea0b195',1,'as_rv32i_csr.c']]],
+  ['csr_5fenable_12',['csr_enable',['../as__rv32i__csr_8c.html#ab09aa055ffea1520309065d46e864b7f',1,'as_rv32i_csr.c']]],
+  ['csr_5fgo_5fto_5ftrap_13',['csr_go_to_trap',['../as__rv32i__core_8c.html#a2dd8db62e5a78e25e9c8d3c36f8f2ca3',1,'as_rv32i_core.c']]],
+  ['csr_5fin_14',['csr_in',['../as__rv32i__csr_8c.html#a701e20ede2b2c02ba54e284fd511a91d',1,'csr_in:&#160;as_rv32i_csr.c'],['../as__rv32i__soc___t_b_8c.html#a55c28da687ad06dfa7ae575fa890da65',1,'csr_in:&#160;as_rv32i_soc_TB.c']]],
+  ['csr_5fout_15',['csr_out',['../as__rv32i__core_8c.html#a5a7c4b82bae1cce57a5409769d836641',1,'as_rv32i_core.c']]],
+  ['csr_5freturn_5faddress_16',['csr_return_address',['../as__rv32i__core_8c.html#a06677ef268e9cfb138670dacd68813df',1,'as_rv32i_core.c']]],
+  ['csr_5freturn_5ffrom_5ftrap_17',['csr_return_from_trap',['../as__rv32i__core_8c.html#af49f2454f53dc6207765b97b2b3093c1',1,'as_rv32i_core.c']]],
+  ['csr_5ftrap_5faddress_18',['csr_trap_address',['../as__rv32i__core_8c.html#aee879e2ade97181b2491c12ac14ae465',1,'as_rv32i_core.c']]],
+  ['csrrc_19',['CSRRC',['../as__rv32i__csr_8c.html#afcf2e92317850ade91dacc918730392a',1,'as_rv32i_csr.c']]],
+  ['csrrci_20',['CSRRCI',['../as__rv32i__csr_8c.html#a4d2fdb61f40a2a7b7807ccf8b1572246',1,'as_rv32i_csr.c']]],
+  ['csrrs_21',['CSRRS',['../as__rv32i__csr_8c.html#a5d877d41d7cf193ddc10c1daf7ef1d5e',1,'as_rv32i_csr.c']]],
+  ['csrrsi_22',['CSRRSI',['../as__rv32i__csr_8c.html#a192cc32e51e425d78a6ed2a8a5557b48',1,'as_rv32i_csr.c']]],
+  ['csrrw_23',['CSRRW',['../as__rv32i__csr_8c.html#a34d68e6b71d368dc5823817cd9082a37',1,'as_rv32i_csr.c']]],
+  ['csrrwi_24',['CSRRWI',['../as__rv32i__csr_8c.html#af9c9459b201e2cbe3662e9d90d12b629',1,'as_rv32i_csr.c']]]
+];
